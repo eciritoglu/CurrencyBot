@@ -1,0 +1,9 @@
+c:\users\eciritoglu\documents\visual studio 2013\Projects\CurrencyBot\CurrencyBot\bin\Debug\CurrencyBot.exe.config
+C:\Users\eciritoglu\Documents\Visual Studio 2013\Projects\CurrencyBot\CurrencyBot\bin\Debug\CurrencyBot.exe
+C:\Users\eciritoglu\Documents\Visual Studio 2013\Projects\CurrencyBot\CurrencyBot\bin\Debug\CurrencyBot.pdb
+C:\Users\eciritoglu\Documents\Visual Studio 2013\Projects\CurrencyBot\CurrencyBot\bin\Debug\HtmlAgilityPack.dll
+C:\Users\eciritoglu\Documents\Visual Studio 2013\Projects\CurrencyBot\CurrencyBot\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\eciritoglu\Documents\Visual Studio 2013\Projects\CurrencyBot\CurrencyBot\bin\Debug\HtmlAgilityPack.xml
+C:\Users\eciritoglu\Documents\Visual Studio 2013\Projects\CurrencyBot\CurrencyBot\obj\Debug\CurrencyBot.csprojResolveAssemblyReference.cache
+C:\Users\eciritoglu\Documents\Visual Studio 2013\Projects\CurrencyBot\CurrencyBot\obj\Debug\CurrencyBot.exe
+C:\Users\eciritoglu\Documents\Visual Studio 2013\Projects\CurrencyBot\CurrencyBot\obj\Debug\CurrencyBot.pdb
